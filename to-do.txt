@@ -1,0 +1,18 @@
+1. Project analysis  ---  done
+2. Boylerplate install ---  done
+3. UI design
+   3.1 Header Design --- done
+   3.2 Banner Design ---done
+   3.3 Table Design---done
+   3.4 Footer Design --done
+4. Modal Design-- done
+5. Modal Funtion-- done
+6. Tast Adding
+7. Task Showing
+8. Task Delete
+9. Task Editing
+10. Clearing Task 
+11. Searching
+12. Light & Dark mode setup--done
+
+ 
